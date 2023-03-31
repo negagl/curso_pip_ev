@@ -22,6 +22,7 @@ After installing the virtual environment, clone the repository and follow the st
 
 ```sh
 cd read_csv_chart
+python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
